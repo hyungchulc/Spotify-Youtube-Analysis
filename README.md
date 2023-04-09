@@ -18,7 +18,7 @@ Visualisations
 Some basic visualizations
 ![output1](https://user-images.githubusercontent.com/64293163/230700643-6ba155d3-b507-4c6b-b7d2-6727b6bc76bf.png)
 
-![output2](https://user-images.githubusercontent.com/64293163/230700647-d1fa605f-e98e-487c-981e-8bfee6864d6c.png)
+![output6](https://user-images.githubusercontent.com/64293163/230760225-44044552-e312-4c69-93d4-7899a6c8ec2d.png)
 
 About Views, Streams, Likes
 
